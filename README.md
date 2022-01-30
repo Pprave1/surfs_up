@@ -13,6 +13,7 @@
    
    Please see the temperature Statistics for December.
    
+   
     ![dec_temp.png](Resources/dec_temp.png)
     
     
