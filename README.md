@@ -8,5 +8,5 @@
    ## Results
    Please see the  temperature Statistics  for June.
    
-   ![june_temp 2022-01-30 155223.png](Resources/june_temp 2022-01-30 155223.png)
+   ![june_temp.png](Resources/june_temp.png)
    
