@@ -6,7 +6,14 @@
      
      
    ## Results
-   Please see the  temperature Statistics  for June.
+   Please see the temperature Statistics  for June.
    
    ![june_temp.png](Resources/june_temp.png)
+   
+   
+   Please see the temperature Statistics for December.
+   
+    ![dec_temp.png](Resources/dec_temp.png)
+    
+    
    
