@@ -6,15 +6,18 @@
      
      
    ## Results
-   Please see the temperature Statistics  for June.
+   ### Please see the temperature Statistics  for June.
    
    ![june_temp.png](Resources/june_temp.png)
    
    
-   Please see the temperature Statistics for December.
+   ### Please see the temperature Statistics for December.
    
    ![dec_temp.png](Resources/dec_temp.png)
 
+This data gives us a summary of different statistics of  temperature difference  in a year . The count is the number of times temperature was observed.
+
+    
     
     
    
